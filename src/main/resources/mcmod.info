@@ -1,0 +1,15 @@
+[
+{
+  "modid": "biomfinder",
+  "name": "BiomFinder",
+  "description": "Shows the current biome's temperature, humidity, ID and Forge types on the F3 screen.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/Keeg4n/BiomFinder",
+  "authorList": ["Keeg4n"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

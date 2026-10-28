@@ -1,0 +1,7 @@
+biomfinder.biome=Biome: %s (ID %s)
+biomfinder.temperature=Temperature: %s (here, with height: %s)
+biomfinder.humidity=Humidity: %s, precipitation: %s
+biomfinder.snow=snow
+biomfinder.rain=rain
+biomfinder.dry=none
+biomfinder.types=Types: %s

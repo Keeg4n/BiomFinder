@@ -1,0 +1,7 @@
+biomfinder.biome=Биом: %s (ID %s)
+biomfinder.temperature=Температура: %s (здесь, с высотой: %s)
+biomfinder.humidity=Влажность: %s, осадки: %s
+biomfinder.snow=снег
+biomfinder.rain=дождь
+biomfinder.dry=нет
+biomfinder.types=Типы: %s
